@@ -19,7 +19,7 @@ cross_exon_coefftreat_2.py -- cross cell line validation for exon usage predicti
 
 ## WORKING MECHANISM
 The overview of the whole pipeline illustrated in Figure 1.
-![alt text](https://github.com/mjflab/exon-prediction/blob/main/method.pdf)
+<img src="https://github.com/mjflab/exon-prediction/blob/main/method.jpg" width="120" height="100">
 figure 1.An overview of the pipeline.
 
 ## USAGE:
