@@ -15,7 +15,7 @@ DeepCPP.ipynb -- user interface.
 
 ## WORKING MECHANISM OF DeepCPP
 The overview of the whole pipeline illustrated in Figure 1.
-![alt text](https://github.com/yuuuuzhang/lncRNA/blob/master/overview.jpg)
+![alt text](https://github.com/mjflab/exon-prediction/blob/main/method.pdf)
 figure 1.An overview of the pipeline.
 
 ## USAGE:
