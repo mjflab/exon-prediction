@@ -34,7 +34,6 @@ sklearn
 ```
 
 
-## REFERANCE
 
 ## CONTACT
 If you have any inqueries, please contact mfullwood@ntu.edu.sg.
