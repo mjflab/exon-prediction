@@ -8,12 +8,16 @@ The datasets can be found at: https://researchdata.ntu.edu.sg/dataverse/chrom_pr
 
  
 ```
-utils_lncRNA.py -- functions will be used.  
-DeepCPP.ipynb -- user interface.  
+fold10_tran_2.py -- 10-fold cross validation for transcription prediction.  
+chrom_tran_2.py -- chromsome split validation for transcription prediction.  
+cross_tran_2.py -- cross cell line validation for transcription prediction.  
+fold10_exon_coefftreat_2.py -- 10-fold cross validation for exon usage prediction.  
+chrom_exon_coefftreat_2.py -- chromsome split validation for exon usage prediction.  
+cross_exon_coefftreat_2.py -- cross cell line validation for exon usage prediction.  
+```
 
 
-
-## WORKING MECHANISM OF DeepCPP
+## WORKING MECHANISM
 The overview of the whole pipeline illustrated in Figure 1.
 ![alt text](https://github.com/mjflab/exon-prediction/blob/main/method.pdf)
 figure 1.An overview of the pipeline.
